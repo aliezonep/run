@@ -9,34 +9,42 @@
 
 > 来不及了, 快上车.
 
-
-- 润 = Run.
-- 配不上厉害国的, 只配润(Run).
+- ✅️ Run = 润.
+- ✅️ 配不上`厉害国`的, 只配`润(Run)`.
 
 <h3  align="center">
-    <img width="233" align="center" alt="run" src="https://user-images.githubusercontent.com/3252130/163540627-1f9b872e-f5b0-4b1a-94b0-bdc3ac69118d.png">
+    <img width="150" align="center" alt="run" src="https://user-images.githubusercontent.com/3252130/163540627-1f9b872e-f5b0-4b1a-94b0-bdc3ac69118d.png">
 </h3>
 <h3  align="center">
-    <img width="233" src="https://user-images.githubusercontent.com/3252130/199338511-4bb2f968-28f6-4127-9b49-0ec8e93bf487.png"/>
+    <img width="150" src="https://user-images.githubusercontent.com/3252130/199338511-4bb2f968-28f6-4127-9b49-0ec8e93bf487.png"/>
 </h3>
 
 
+## 🐶 几点澄清:
 
-## 润群交流: 
+> `政治光谱` 不同. `二极管`, 别急着认`友军`, 也别急着`划清界限`. 
+
+- ✅️ `讨厌` A 国, 不等于`喜欢(支持/鼓吹/认可)` B/C/D 国.
+    - 礼乐崩坏, 比烂时代, 各有各的 low, 各有各的双标. (别对任何 `制度/治理模式/族群`, 抱有不切实际的`幻想`)
+    - 少点幻觉, 保持清醒, 哪里的月亮 `都不圆`. (但`一定不选`那个`最不圆的` 🐶)
+    - 润, 只是过自己`可接受`的生活. 不润, 也一样. (自己接受就好)
+- ✅️ A 国 `反贼` ≠ B/C/D 国 `支持者/信仰者`. (一些人是, 但不是所有人)
+    - 可能在 `A/B/C/D` 国, 都属于 `反贼阵营`(名义上).
+    - `在哪都是反贼`, `特立独行的猪🐷`, `始终与所谓主流格格不入`. 
+- ✅️ `阶级(无产 vs 有产)认同` > `文化认同` >  `意识形态认同` > `组织认同` > `民族认同` >`国家认同`.
+    - 谁是我们的敌人, 谁是我们的朋友? 再想想.
+
+
+## 🏠️ 润群交流: 
 
 > 本群: (技术群, 讨论润, 也讨论技术)
 
-[![Telegram](https://img.shields.io/badge/Telegram-GossipCoder-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/gossip_coder)
+[![Telegram](https://img.shields.io/badge/Telegram-GossipCoder-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/GossipRun)
 [![Discord](https://img.shields.io/badge/Discord-GossipCoder-%235865F2?style=flat-square&logo=discord)](https://discord.com/invite/MnDA9pfWAW)
 
 
-> 友情链接: 
 
-[![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
-[![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
-
-
-## 润学指南:
+## 📔 润学指南:
 
 > 润学 - 实践指导:
 
@@ -47,7 +55,7 @@
 - [how](./how/README.md)
 - [faq](./faq/README.md)
 
-## Why? Why Not?
+## ❓ Why? Why Not?
 
 ### 什么样的人, 应该润?
 
